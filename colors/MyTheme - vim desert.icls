@@ -4,7 +4,7 @@
     <property name="created">2017-04-24T18:05:23</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-08-03T18:31:08</property>
+    <property name="modified">2017-08-18T11:34:29</property>
     <property name="originalScheme">MyTheme</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -545,6 +545,12 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="6464c7" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
