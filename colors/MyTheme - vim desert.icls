@@ -4,7 +4,7 @@
     <property name="created">2017-04-24T18:05:23</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2018-08-16T10:56:31</property>
+    <property name="modified">2018-08-17T14:56:26</property>
     <property name="originalScheme">MyTheme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -546,6 +546,12 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9d35b2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
